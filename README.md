@@ -25,3 +25,10 @@ Registration for Categories is a powerful WordPress plugin designed for WooComme
 
 With Registration for Categories, you can strike the perfect balance between user convenience and data collection. Upgrade your WooCommerce store today and provide a seamless and personalized shopping experience for your customers.
 
+## Contribution
+
+Contributions, bug reports, and feature requests are welcome! Feel free to submit issues or pull requests on the GitHub repository.
+
+## License
+
+This plugin is released under the [GNU General Public License v2 or later](https://www.gnu.org/licenses/gpl-2.0.html).
